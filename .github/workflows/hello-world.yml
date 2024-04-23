@@ -6,3 +6,5 @@ jobs:
     steps:
     - name: Echo Text
       run: 'echo "Hello, World!"'
+    - name: Echo another text
+      run: 'echo "Hello World11"''
