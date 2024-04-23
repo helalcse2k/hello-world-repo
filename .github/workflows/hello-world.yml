@@ -7,4 +7,8 @@ jobs:
     - name: Echo Text
       run: 'echo "Hello, World!"'
     - name: Echo another text
+<<<<<<< HEAD
       run: 'echo "Hello World11"'
+=======
+      run: 'echo "Hello World11"'
+>>>>>>> 8dde51571bc2433cceeb86d53ba8bf52ffa3f89f
