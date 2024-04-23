@@ -7,4 +7,4 @@ jobs:
     - name: Echo Text
       run: 'echo "Hello, World!"'
     - name: Echo another text
-      run: 'echo "Hello World11"''
+      run: 'echo "Hello World11"'
