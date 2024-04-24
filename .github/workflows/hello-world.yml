@@ -8,3 +8,5 @@ jobs:
       run: 'echo "Hello, World!"'
     - name: Echo another text
       run: 'echo "Hello World11"'
+    - name: Echo 3rd text
+      run: 'echo "Hello world22"'
